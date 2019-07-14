@@ -12,3 +12,7 @@ Hyperledger Fabric Cryprography
 ## [Securing Communication With Transport Layer Security TLS](https://hyperledger-fabric.readthedocs.io/en/release-1.4/enable_tls.html)
 
 ## [MSP Implementation with Identity Mixer](https://hyperledger-fabric.readthedocs.io/en/release-1.4/idemix.html?highlight=509)
+
+IBM Cloud:  https://www.researchgate.net/figure/The-architecture-of-IBM-Blockchain-Platform_fig1_328182470
+
+Tennant Isolation, Crypto accelerator, Hardware Security Module, Secure Service Contained (SSC)
