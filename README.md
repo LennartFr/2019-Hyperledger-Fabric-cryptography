@@ -8,3 +8,5 @@ Hyperledger Fabric Cryprography
 ## [Membership and Identity Management](https://www.youtube.com/watch?v=4ujj5knD3pg)
 
 ## [Securing Communication With Transport Layer Security TLS](https://hyperledger-fabric.readthedocs.io/en/release-1.4/enable_tls.html)
+
+## [MSP Implementation with Identity Mixer](https://hyperledger-fabric.readthedocs.io/en/release-1.4/idemix.html?highlight=509)
