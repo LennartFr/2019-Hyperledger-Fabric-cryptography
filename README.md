@@ -16,3 +16,7 @@ Hyperledger Fabric Cryprography
 IBM Cloud:  https://www.researchgate.net/figure/The-architecture-of-IBM-Blockchain-Platform_fig1_328182470
 
 Tennant Isolation, Crypto accelerator, Hardware Security Module, Secure Service Contained (SSC)
+
+## [Secure blockchain technology on IBM LinuxONE](https://www.ibm.com/it-infrastructure/linuxone/capabilities/blockchain-technology)
+
+## [Ensuring Secure Enterprise Blockchain Networks A look at IBM Blockchain and LinuxONE]()
